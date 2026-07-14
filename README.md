@@ -1,5 +1,6 @@
 # KÂR-AYNA
 <img width="3435" height="1285" alt="Karşılaştırma Menüsü_Ana_Ekran" src="https://github.com/user-attachments/assets/80a1aa2c-1651-4040-b127-f7bef02796ce" />
+<img width="3430" height="1290" alt="Metin Analizi_Sorgu_Ekranı" src="https://github.com/user-attachments/assets/6063bc4f-99aa-4fe3-8830-a7a4220282b1" />
 
 ## Proje Hakkında
 KÂR-AYNA, Mukkittin tarafından geliştirilen ve katılımcı bankacılık kampanyalarının daha güvenli, daha şeffaf ve daha mevzuata uygun şekilde değerlendirilmesini amaçlayan bir yerel ilkeli analitik platformdur. Proje, metin tabanlı kampanya içeriklerini yapılandırılmış ürün çıkarımlarına dönüştürür; terminoloji kontrolü, açıklanabilir karşılaştırma ve karar destek akışı sunar.
