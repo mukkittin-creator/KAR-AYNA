@@ -1,7 +1,7 @@
 # KÂR-AYNA
 
 ## Proje Hakkında
-KÂR-AYNA, NEON-AI ekibi tarafından geliştirilen ve katılımcı bankacılık kampanyalarının daha güvenli, daha şeffaf ve daha mevzuata uygun şekilde değerlendirilmesini amaçlayan bir yerel ilkeli analitik platformdur. Proje, metin tabanlı kampanya içeriklerini yapılandırılmış ürün çıkarımlarına dönüştürür; terminoloji kontrolü, açıklanabilir karşılaştırma ve karar destek akışı sunar.
+KÂR-AYNA, Mukkittin tarafından geliştirilen ve katılımcı bankacılık kampanyalarının daha güvenli, daha şeffaf ve daha mevzuata uygun şekilde değerlendirilmesini amaçlayan bir yerel ilkeli analitik platformdur. Proje, metin tabanlı kampanya içeriklerini yapılandırılmış ürün çıkarımlarına dönüştürür; terminoloji kontrolü, açıklanabilir karşılaştırma ve karar destek akışı sunar.
 
 ## Milli Teknoloji Hamlesi Vizyonu
 KÂR-AYNA, Türkiye'nin dijital bağımsızlık ve milli teknoloji hamlesi hedefleriyle uyumlu bir yaklaşım sunar. Sistem, veri işleme ve karar desteği süreçlerini dışa bağımlılık olmaksızın, yerel ortamda ve kontrol edilebilir bir mimariyle yürütmeyi hedefler. Böylece kurumların, güvenilir, egemen ve açıklanabilir yapay zeka kapasitesiyle daha güçlü içgörüler üretmesi amaçlanır.
